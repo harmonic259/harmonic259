@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @harmonic259
-- 👀 I’m interested in mathematics, coding and everything which forcre me to think about the structure of universe.
-- 🌱 I’m currently learning mahcine.
+- 👋 Hi, I’m harmonic259
+- 👀 I’m interested in mathematics, coding and everything which forcre me to think about the structure of the universe.
+- 🌱 I’m currently learning everything!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
