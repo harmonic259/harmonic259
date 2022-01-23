@@ -1,8 +1,7 @@
 - 👋 Hi, I’m harmonic259
 - 👀 I’m interested in mathematics, coding and everything which forcre me to think about the structure of the universe.
 - 🌱 I’m currently learning everything!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 harmonic259/harmonic259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
