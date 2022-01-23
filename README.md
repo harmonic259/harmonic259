@@ -1,5 +1,5 @@
 - 👋 Hi, I’m harmonic259
-- 👀 I’m interested in mathematics, coding and everything which forcre me to think about the structure of the universe.
+- 👀 I’m interested in mathematics, coding and everything which helps me to understand the structure of the universe.
 - 🌱 I’m currently learning everything!
 
 
