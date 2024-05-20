@@ -1,7 +1,5 @@
 # 👋 Hello, World! I'm Amin 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=harmonic259&color=brightgreen&style=flat-square)
-
 Welcome to my little corner of the coding universe! 🚀 I'm a passionate researcher, continuous learner, and tech enthusiast, ready to explore and innovate.
 
 <p align="middle">
@@ -27,6 +25,8 @@ Welcome to my little corner of the coding universe! 🚀 I'm a passionate resear
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmonic259&show_icons=true&locale=en&theme=dark" alt="harmonic259" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmonic259&theme=dark" alt="harmonic259" /></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=harmonic259&color=brightgreen&style=flat-square)
 
 ## 🚀 Let's Build Something Amazing Together!
 Collaboration and innovation are the heartbeats of progress. Together, let's create the future!
