@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Amin 🌟
 
-Welcome to my little corner of the coding universe! 🚀 I'm a passionate researcher, continuous learner, and tech enthusiast, ready to explore and innovate.
+Welcome to my little corner of the coding universe! 🚀 I'm a passionate researcher, continuous learner, and AI enthusiast, ready to explore and innovate.
 
 <p align="middle">
   <img src="https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1589203333135-LLNIKB08AXJFYQ29N7SM/AI.gif?format=1500w" alt="triangle" width = "600" height = "300"/>
