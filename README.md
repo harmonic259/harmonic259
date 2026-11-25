@@ -1,10 +1,10 @@
 # Hello, World! I'm Amin 
 
-Welcome to my little corner of the coding universe! 🚀 I'm a passionate researcher, continuous learner, and AI enthusiast, ready to explore and innovate.
+Welcome to my little corner of the coding universe! I'm a passionate researcher, continuous learner, and AI enthusiast, ready to explore and innovate.
 
 
 ## About Me
-> *CE student at Amirkabir University of Technology*
+> *CS student at Sharif University of Technology*
 - **Feilds of Study:** AI, Mathematics, Cognitive science
 
 ## Technologies & Tools
